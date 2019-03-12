@@ -1,4 +1,4 @@
 require 'bundler'
 Bundler.setup(:default)
-require './slackruby.rb'
+require './main.rb'
 run Sinatra::Application
