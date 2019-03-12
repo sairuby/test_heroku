@@ -1,13 +1,13 @@
-require 'bundler/setup'
-require 'rubygems'
+#require 'bundler/setup'
+# require 'rubygems'
 require 'sinatra'
-require 'json'
-require 'logger'
-require 'yaml'
-require 'fileutils'
-require 'pry'
-require 'uri'
-require 'net/http'
+# require 'json'
+# require 'logger'
+# require 'yaml'
+# require 'fileutils'
+# require 'pry'
+# require 'uri'
+# require 'net/http'
 
  
 post '/testcall' do
