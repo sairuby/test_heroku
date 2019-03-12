@@ -20,6 +20,7 @@ post '/testcall' do
   {:text => "#{result1}"}.to_json
 end
 get '/hello' do
+	puts "hello"
 	" hello"
 end
 
